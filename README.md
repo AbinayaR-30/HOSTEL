@@ -6,7 +6,7 @@ A real-time Hostel Room Allocation System built using HTML, CSS, JavaScript, and
 
 The Hostel Room Allocation System is a web-based application designed to simplify and automate hostel room allocation. Instead of maintaining manual records, the system securely stores student and room information in Firebase Realtime Database and provides real-time updates for room availability and allocations.
 
-This project is developed as a Database Management System (DBMS) application with a simple, responsive, and user-friendly interface.
+This project is developed as a Database Management System (DBMS) application with a simple, responsive, and user-friendly interface1
 
 ## Features
 
